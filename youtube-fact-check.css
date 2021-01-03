@@ -1,0 +1,9 @@
+/*
+By: https://www.dreamsites.uk
+Author: Kashif Bhatti
+Description: Hide YouTube's fact checking.
+*/
+
+div#clarify-box {
+    display: none;
+}

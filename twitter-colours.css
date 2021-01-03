@@ -1,0 +1,30 @@
+/*
+By: https://www.dreamsites.uk
+Author: Kashif Bhatti
+Description: Turn the Twitter interface into a psychedelic nightmare.
+*/
+
+/* search area */
+main > div > div > div > div + div > div > div + div > div > div > div > div > div > div > div {
+    background: #da33a7;
+}
+
+/* trending */
+main > div > div > div > div + div > div > div + div > div > div > div > div > div {
+    background: white;
+}
+
+/* who to follow */
+main > div > div > div > div + div > div > div + div > div > div > div > div > aside {
+    background: blueviolet;
+}
+
+/* left column */
+header {
+    background: #31b766;
+}
+
+/* right column */
+main > div > div > div > div + div {
+    background: yellow;
+}
